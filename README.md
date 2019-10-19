@@ -4,8 +4,8 @@
 
 [torch.nn官方文档](https://pytorch.org/docs/stable/nn.html#)  
 
-**数字图像处理** 
-[卷积和滤波操作原理](https://www.cnblogs.com/xiaojianliu/p/9075872.html)  **注：这个网站里还有linux的各种使用方法**  
+**数字图像处理**  
+[卷积和滤波操作原理](https://www.cnblogs.com/xiaojianliu/p/9075872.html)  **注：这个网站里还有linux的各种使用方法**    
 [卷积运算详细过程](https://blog.csdn.net/u013539952/article/details/80610260)
 
 
