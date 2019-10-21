@@ -1,5 +1,12 @@
 # pytorch-learning
 
+**深度学习**
+[机器学习实战教程](https://www.zybuluo.com/hanbingtao/note/433855)
+[比较全的各种教程（包括上面的深度学习）](https://cuijiahua.com/blog/2018/10/dl-7.html)
+
+**pytorch**
+[pytorch教程（含代码）](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+
 [pytorch-book 教程github地址](https://github.com/chenyuntc/pytorch-book)
 
 [torch.nn官方文档](https://pytorch.org/docs/stable/nn.html#)  
@@ -15,3 +22,4 @@
 [batch_size概念](https://www.cnblogs.com/gengyi/p/9853664.html)  
 [Conv2d参数详解](https://blog.csdn.net/lzc842650834/article/details/90265621)  
 [Pytorch卷积神经网络常见的层](https://www.jianshu.com/p/343e1d994c39)  
+
