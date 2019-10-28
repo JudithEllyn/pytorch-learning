@@ -13,7 +13,9 @@
 
 **数字图像处理**  
 [卷积和滤波操作原理](https://www.cnblogs.com/xiaojianliu/p/9075872.html)  **注：这个网站里还有linux的各种使用方法**    
-[卷积运算详细过程](https://blog.csdn.net/u013539952/article/details/80610260)
+[卷积运算详细过程](https://blog.csdn.net/u013539952/article/details/80610260)  
+[cv2：对图片的操作与显示](https://www.cnblogs.com/zlel/p/9267629.html)  
+[torchvision包含了三个子包：datasets,models,transforms](https://blog.csdn.net/sinat_42239797/article/details/93916790)
 
 
 
@@ -22,4 +24,8 @@
 [batch_size概念](https://www.cnblogs.com/gengyi/p/9853664.html)  
 [Conv2d参数详解](https://blog.csdn.net/lzc842650834/article/details/90265621)  
 [Pytorch卷积神经网络常见的层](https://www.jianshu.com/p/343e1d994c39)  
+
+
+**一些实例**
+[LeNet pytorch训练MNIS(手写数字)数据集](https://blog.csdn.net/weixin_44613063/article/details/90815082)
 
