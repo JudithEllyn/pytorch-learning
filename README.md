@@ -1,5 +1,10 @@
 # pytorch-learning
 
+[概述：半小时学会卷积神经网络,很详细](https://www.cnblogs.com/wmr95/articles/7814892.html)
+
+
+**[这个作者特别全，爬虫/pytorch/vue啥都有](https://blog.csdn.net/weixin_44510615/article/list/2?)**  
+
 **深度学习**
 [机器学习实战教程](https://www.zybuluo.com/hanbingtao/note/433855)
 [比较全的各种教程（包括上面的深度学习）](https://cuijiahua.com/blog/2018/10/dl-7.html)
@@ -23,9 +28,16 @@
 [卷积、feature map、channel等概念的理解](https://blog.csdn.net/tangxinru123/article/details/100742269)  
 [batch_size概念](https://www.cnblogs.com/gengyi/p/9853664.html)  
 [Conv2d参数详解](https://blog.csdn.net/lzc842650834/article/details/90265621)  
-[Pytorch卷积神经网络常见的层](https://www.jianshu.com/p/343e1d994c39)  
+[Pytorch卷积神经网络常见的层](https://www.jianshu.com/p/343e1d994c39)    
+[pytorch常用层（贴合教程）](https://blog.csdn.net/weixin_44510615/article/details/90261306)  
+
+[池化层的作用解释1](https://blog.csdn.net/kele_imon/article/details/79532286)  
+[池化层解释2](https://blog.csdn.net/XX_123_1_RJ/article/details/86677482)  
+
+
 
 
 **一些实例**
-[LeNet pytorch训练MNIS(手写数字)数据集](https://blog.csdn.net/weixin_44613063/article/details/90815082)
+[LeNet pytorch训练MNIS(手写数字)数据集](https://blog.csdn.net/weixin_44613063/article/details/90815082)  
+
 
