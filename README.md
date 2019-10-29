@@ -21,6 +21,8 @@
 [卷积运算详细过程](https://blog.csdn.net/u013539952/article/details/80610260)  
 [cv2：对图片的操作与显示](https://www.cnblogs.com/zlel/p/9267629.html)  
 [torchvision包含了三个子包：datasets,models,transforms](https://blog.csdn.net/sinat_42239797/article/details/93916790)
+[torchvision.utils.make_grid:将tensor合并成一个图](https://blog.csdn.net/u012343179/article/details/83007296) 
+[numpy.transpose():转置函数](https://blog.csdn.net/u012762410/article/details/78912667)
 
 
 
@@ -33,7 +35,8 @@
 
 [池化层的作用解释1](https://blog.csdn.net/kele_imon/article/details/79532286)  
 [池化层解释2](https://blog.csdn.net/XX_123_1_RJ/article/details/86677482)  
-[数据装载torch.utils.data.DataLoader](torch.utils.data.DataLoader)
+[数据装载torch.utils.data.DataLoader](torch.utils.data.DataLoader)  
+[训练过程中batch_size、iteration、epoch的含义](https://blog.csdn.net/qq_18668137/article/details/80883350)  
 
 
 
