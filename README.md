@@ -33,6 +33,7 @@
 
 [池化层的作用解释1](https://blog.csdn.net/kele_imon/article/details/79532286)  
 [池化层解释2](https://blog.csdn.net/XX_123_1_RJ/article/details/86677482)  
+[数据装载torch.utils.data.DataLoader](torch.utils.data.DataLoader)
 
 
 
