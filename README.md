@@ -1,6 +1,8 @@
 # pytorch-learning
 
 [概述：半小时学会卷积神经网络,很详细](https://www.cnblogs.com/wmr95/articles/7814892.html)
+[CNN卷积神经网络原理详解（一）](https://www.cnblogs.com/charlotte77/p/7759802.html)
+[CNN卷积神经网络原理（二）](https://www.cnblogs.com/charlotte77/p/7783261.html)
 
 
 **[这个作者特别全，爬虫/pytorch/vue啥都有](https://blog.csdn.net/weixin_44510615/article/list/2?)**  
